@@ -1,4 +1,4 @@
-#Criterion D: Evaluating
+# Criterion D: Evaluating
 ## Strand i: Testing Methods
 
 ## Strand ii: Evaluate Program Success

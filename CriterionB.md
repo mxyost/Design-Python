@@ -1,4 +1,4 @@
-#Criterion B: Developing Ideas
+# Criterion B: Developing Ideas
 ## Strand i: Design Specification
 
 ## Strand ii: Design Ideas
