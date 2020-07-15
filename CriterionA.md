@@ -38,7 +38,7 @@
 | --------- |  --------- | --------- | ---------- | ---------- |
 | Score out of 10     | score 1    | score 2   | score 3 | score 4 |
 
-Total score out of 40:
+***Total score out of 40:***
 
 ### Program 2
 
@@ -48,7 +48,7 @@ Total score out of 40:
 | --------- |  --------- | --------- | ---------- | ---------- |
 | Score out of 10     | score 1    | score 2   | score 3 | score 4 |
 
-Total score out of 40:
+***Total score out of 40:***
 
 
 ### Program 3
@@ -59,7 +59,7 @@ Total score out of 40:
 | --------- |  --------- | --------- | ---------- | ---------- |
 | Score out of 10     | score 1    | score 2   | score 3 | score 4 |
 
-Total score out of 40:
+***Total score out of 40:***
 
 ## Strand iv: Design Brief
 
