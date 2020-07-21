@@ -1,5 +1,5 @@
 # Criterion A: Inquiring and Analyzing
-## Strand i
+## Strand i: Introduction
 *Explain and justify why a particular problem for your client or target audience can be solved by a Python program*
 
 [Paragraph(s) here]
